@@ -7,6 +7,9 @@ You can reach out to us on Discord (https://discord.citizenwallet.xyz) or on X (
 
 For more information about the Citizen Wallet: https://citizenwallet.xyz
 
+![Citizen Wallet NGI Forum](https://github.com/citizenwallet/.github/assets/74358/2d7b214d-7d1c-4042-af18-c8cf9973d3c2)
+
+
 <!--
 
 **Here are some ideas to get you started:**
