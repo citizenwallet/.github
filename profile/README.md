@@ -2,18 +2,20 @@
 
 Welcome to the Github of the Citizen Wallet 🤗
 
-Our goal is to give communities the tools they need to build a resilient and regenerative economy.
+Our goal is to give communities the tools they need to allocate resources 🌈.
 
-It starts with a wallet to enable all of us, citizens, to receive and send the tokens of our communities without any prior knowledge of web3. 
+It starts with a token that can be used to represent any resource you have within your community (time 🕰️, goods 📦, services 🤝, treasury 💰, etc...). 
 
 ![Citizen Wallet banner](https://github.com/citizenwallet/.github/assets/74358/2d7b214d-7d1c-4042-af18-c8cf9973d3c2)
 
 Everything we do is open source and you are very much invited to come contribute.
 
 ## Main repositories
-- [citizenwallet/app](https://github.com/citizenwallet/app): web, iOS, Android app
-- [citizenwallet/indexer](https://github.com/citizenwallet/indexer): backend
-- [citizenwallet/smartcontracts](https://github.com/citizenwallet/smartcontracts): custom smart contracts
+- [citizenwallet/app](https://github.com/citizenwallet/app): iOS, Android app
+- [citizenwallet/webapp](https://github.com/citizenwallet/webapp): web
+- [citizenwallet/dashboard](https://github.com/citizenwallet/dashboard): admin dashboard
+- [citizenwallet/engine](https://github.com/citizenwallet/engine): transactions
+- [citizenwallet/contract-forge](https://github.com/citizenwallet/contractforge): smart contracts
 
 
 You can reach out to us on Discord (https://discord.citizenwallet.xyz) or on X ([@citizenwallet](https://x.com/citizenwallet)).
