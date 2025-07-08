@@ -2,7 +2,7 @@
 
 Welcome to the Github of the Citizen Wallet 🤗
 
-Our goal is to give communities the tools they need to allocate resources 🌈.
+Our goal is to give communities the tools they need to allocate all forms of resources 🌈.
 
 It starts with a token that can be used to represent any resource you have within your community (time 🕰️, goods 📦, services 🤝, treasury 💰, etc...). 
 
