@@ -6,7 +6,7 @@ Our goal is to give communities the tools they need to allocate resources 🌈.
 
 It starts with a token that can be used to represent any resource you have within your community (time 🕰️, goods 📦, services 🤝, treasury 💰, etc...). 
 
-![Citizen Wallet banner](https://github.com/citizenwallet/.github/assets/74358/2d7b214d-7d1c-4042-af18-c8cf9973d3c2)
+![Citizen Wallet banner](https://github.com/citizenwallet/.github/blob/cc23e8a73c82f2f35eb1ffdad0765f2883974b3a/profile/cw-banner.png)
 
 Everything we do is open source and you are very much invited to come contribute.
 
